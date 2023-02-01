@@ -1,0 +1,51 @@
+
+.google:first-line{
+		   color:green;
+		   font-size:50px;
+		   font-style:italic;
+}
+.mani:first-letter{
+	color:blue;
+	font-size:50px;
+	font-style:italic;
+}
+.dog2::before{
+	content:'_________';
+	display:inline-block;
+	background-color:red;
+	width:50px;
+	height:3px;
+	
+}
+.img3::after{
+	content:'_________';
+	display:inline-block;
+	background-color:red;
+	width:50px;
+	height:3px;
+	
+	
+}
+.cl3:focus{
+	             color:red;
+	             background-color:yellow;
+				 width:40%;
+				 height:40%;
+}
+.icon a:hover{
+	             background-color:orange;
+				 color:red;
+	
+	}
+
+a:visited{
+            color:red;
+			background-color:lightblue;
+}
+.sm a:link{
+             color:blue;
+}			 
+https://bootstrapmade.com/
+
+
+
